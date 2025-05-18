@@ -52,3 +52,5 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+/src/OrderAccumulator/.vs/OrderAccumulator/FileContentIndex/5618eecf-9638-49ae-9339-57aa9e0b87c8.vsidx
+/src/OrderAccumulator/.vs/OrderAccumulator/FileContentIndex
